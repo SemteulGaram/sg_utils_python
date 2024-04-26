@@ -1,2 +1,2 @@
-# gold_python
-🗝️ Gold key code for python3
+# sg_utils_python
+🗝️ python3 unified utility code
